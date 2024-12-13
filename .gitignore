@@ -1,0 +1,39 @@
+# Arquivos gerados pelo Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de saída (se houver cadernos com saída salva em disco)
+*.nbconvert/
+*.log
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de configuração de ambiente
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+
+# Arquivos de cache do Jupyter ou Python
+.cache/
+*.ipynb~  # Backups temporários de notebooks
+*.swp     # Arquivos temporários de edição
+
+# Arquivos de ambiente do Conda
+*.conda
+*.yaml
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de logs ou temporários
+*.log
+*.bak
+*.tmp
+
+# Arquivos de pacotes instalados
+node_modules/
